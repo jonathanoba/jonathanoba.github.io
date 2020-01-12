@@ -21,7 +21,7 @@ summary: I developed a program that would translate Morse Code into English.
 
 One of the assignments for my ICS 212 course had me create a program that could accurately translate a phrase in Morse Code into the English equivalent. The purpose of the assignment was to learn how to take inputs from the command line as well as be able to compare the input string to morse. 
 
-The most difficult part of the task was to compare the input string and the Morse Code library within the program. It forced me to get used to methods such as strcmp (string compare) which makes everything that much easier.
+The most difficult part of the task was to compare the input string with the Morse Code library within the program. It forced me to get used to methods such as strcmp (string compare) which makes everything that much easier.
 
 It shows the importance of libraries and the use of helpful functions that may autmatically do something you were trying to figure out.
 
