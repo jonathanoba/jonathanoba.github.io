@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/book_title.PNG
 title: A Leap Of Faith
 permalink: projects/novel
 # All dates must be YYYY-MM-DD format!
