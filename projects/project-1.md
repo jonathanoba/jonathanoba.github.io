@@ -26,7 +26,7 @@ As I am writing this, it’s actually been nearly a year since I’ve visited my
 
 As someone who dislikes leaving things that I have started unfinished, it’s motivating me to try again and attempt to finish my story. Hopefully those who kept up with it will be happily surprised if I do so.
 
-<img class="ui image" src="{{ site.baseurl }}/images/chapters.png">
+<img class="ui image" src="{{ site.baseurl }}/images/chapters.PNG">
 
 
 
