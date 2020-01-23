@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Morse Code
-permalink: projects/micromouse
+title: A Leap Of Faith
+permalink: projects/novel
 # All dates must be YYYY-MM-DD format!
 date: 2019-04-12
 labels:
@@ -26,7 +26,7 @@ As I am writing this, it’s actually been nearly a year since I’ve visited my
 
 As someone who dislikes leaving things that I have started unfinished, it’s motivating me to try again and attempt to finish my story. Hopefully those who kept up with it will be happily surprised if I do so.
 
-
+<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 
 
