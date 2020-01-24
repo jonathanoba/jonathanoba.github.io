@@ -1,14 +1,14 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/swimming.png
 title: A Broken Back
 permalink: projects/swimming
 # All dates must be YYYY-MM-DD format!
 date: 2015-04-12
 labels:
-  - Lisp
-  - GitHub
+  - Swimming
+  - Sports
 summary: The lessons I've learned from getting injured through swimming.
 ---
 I used to be a competitive swimmer for over 8 years of my life during grade school. I went through a lot of high highs and  an extremely low low. There has been nothing else in my life that has made me grow as a person than my days in swimming. I learned how to be disciplined, manage my time, and I think most importantly of all being persistent. 
