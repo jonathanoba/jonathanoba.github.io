@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/swimming.png
+image: images/swimmin.png
 title: A Broken Back
 permalink: projects/swimming
 # All dates must be YYYY-MM-DD format!
