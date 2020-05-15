@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: After Everything
+title: After Everything (Reflect on Software Engineering)
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-14
 labels:
